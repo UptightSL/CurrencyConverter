@@ -1,7 +1,14 @@
 # Uptight's Shitty Currency Converter
 
-Written in Lua, using Luvit to run. My shitty currency converter will take you on a wild spin when you look through the code.  
+Written in Lua, using LuaJIT to run. My shitty currency converter will take you on a wild spin when you look through the code.  
 Over-engineered in some areas and under-engineered in others, it's sure you make you question my sanity.  
+
+> Switched to LuaJIT because why not
+
+## Platforms
+
+* Windows 10/11 (Expected)
+* Linux?
 
 ## Rewrites
 
