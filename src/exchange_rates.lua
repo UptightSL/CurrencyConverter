@@ -64,7 +64,7 @@ do
         exchange_rates.add_rate("JPY", "USD", 0.0067)
         exchange_rates.add_rate("JPY", "EUR", 0.0063)
         exchange_rates.add_rate("JPY", "GBP", 0.0055)
-        exchange_rates.add_rate("JPY", "CAD", "0.0092")
+        exchange_rates.add_rate("JPY", "CAD", 0.0092)
     end
 
     do
